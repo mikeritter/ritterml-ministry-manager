@@ -1,6 +1,6 @@
 # Ministry Manager
 
-This project is **HIGHLY EXPERIMENTAL** and *not yet** suitable for public use!
+This project is **HIGHLY EXPERIMENTAL** and *not yet* suitable for public use!
 
 No development cycle has been established.
 
